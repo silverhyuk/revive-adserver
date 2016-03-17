@@ -26,7 +26,7 @@ $GLOBALS['day_format'] = "%m-%d";
 /* ------------------------------------------------------- */
 
 $GLOBALS['strHome'] = "홈";
-$GLOBALS['strHelp'] = "�?�움�?";
+$GLOBALS['strHelp'] = "도움말";
 $GLOBALS['strStartOver'] = "재시작";
 $GLOBALS['strShortcuts'] = "바로가기";
 $GLOBALS['strActions'] = "작업";
